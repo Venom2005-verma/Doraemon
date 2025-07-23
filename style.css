@@ -1,0 +1,9 @@
+@media (min-width: 768px)
+.flex-md-row-4 {
+    flex-direction: row!important;
+    height: 255px;
+
+    .img-2{
+    	height: 219px;
+    }
+}
